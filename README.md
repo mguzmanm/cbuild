@@ -10,6 +10,8 @@
 
 # cbuild: Open-CMSIS-Pack Build Invocation Utility
 
+Maribel Guzman
+
 This utility allows embedded developers to build **CPRJ** and **csolution** projects by orchestrating the following tools:
 
 - `cbuildgen`
