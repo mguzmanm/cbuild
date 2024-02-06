@@ -12,6 +12,8 @@
 
 Maribel Guzman
 
+uv2csolution
+
 This utility allows embedded developers to build **CPRJ** and **csolution** projects by orchestrating the following tools:
 
 - `cbuildgen`
